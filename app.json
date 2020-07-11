@@ -1,8 +1,10 @@
 {
   "pages":[
-    "pages/wxml/index",
-    "pages/index/index",
-    "pages/logs/logs"
+    "pages/learn/index",
+    "pages/test/index",
+    "pages/versus/index",
+    "pages/ranking/index",
+    "pages/home/index"
   ],
   "window":{
     "backgroundTextStyle":"light",
@@ -12,18 +14,36 @@
   },
   "tabBar": {
     "list": [{
-      "pagePath": "pages/index/index",
-      "text": "学习"
+      "pagePath": "pages/learn/index",
+      "text": "学习",
+      "iconPath": "icons/learn.png",
+      "selectedIconPath": "icons/learn_1.png"
     },
     {
-      "pagePath": "pages/logs/logs",
-      "text": "赛事"
+      "pagePath": "pages/test/index",
+      "text": "赛事",
+      "iconPath": "icons/test.png",
+      "selectedIconPath": "icons/test_1.png"
     },
     {
-      "pagePath": "pages/wxml/index",
-      "text": "我的"
+      "pagePath": "pages/versus/index",
+      "text": "对战",
+      "iconPath": "icons/versus.png",
+      "selectedIconPath": "icons/versus_1.png"
+    },
+    {
+      "pagePath": "pages/ranking/index",
+      "text": "排行",
+      "iconPath": "icons/ranking.png",
+      "selectedIconPath": "icons/ranking_1.png"
+    },
+    {
+      "pagePath": "pages/home/index",
+      "text": "主页",
+      "iconPath": "icons/home.png",
+      "selectedIconPath": "icons/home_1.png"
     }
-  ]
+    ]
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json"
