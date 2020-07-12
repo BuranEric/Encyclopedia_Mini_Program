@@ -9,7 +9,7 @@
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "hi",
+    "navigationBarTitleText": "百科知识我在行",
     "navigationBarTextStyle":"black"
   },
   "tabBar": {
