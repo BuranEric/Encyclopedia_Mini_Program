@@ -1,5 +1,7 @@
 <!--pages/wxml/index.wxml-->
 <text>当前时间：{{time}}</text>
+<button style="inline-block">排序方式：</button>
+<button style="inline-block">排序类型：</button>
 
 
 
