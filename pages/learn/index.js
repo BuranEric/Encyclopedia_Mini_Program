@@ -6,13 +6,13 @@ Page({
   data: {
     imgUrls: [
       {link:'',
-      url:'/images/bg1.png',
+      url:'http://119.23.182.180/project/images/bg1.png',
       },
       {link:'',
-      url:'/images/bg2.png',
+      url:'http://119.23.182.180/project/images/bg2.png',
       },
       {link:'',
-      url:'/images/bg3.png',
+      url:'http://119.23.182.180/project/images/bg3.png',
       },
     ],
     indicatorDots: true,
