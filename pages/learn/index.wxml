@@ -8,8 +8,11 @@
       </swiper-item>
     </block>
   </swiper>
-
+  <text>{{[1,2,3]}}</text>  
+  <audio name="test" controls="true" src="{{ausrc0}}"></audio>
+  
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>
+
 </view>

@@ -6,19 +6,22 @@ Page({
   data: {
     imgUrls: [
       {link:'',
-      url:'http://119.23.182.180/project/images/bg1.png',
+      url:'https://github.com/BuranEric/Encyclopedia_Mini_Program/blob/test/images/bg1.png',
       },
       {link:'',
-      url:'http://119.23.182.180/project/images/bg2.png',
+      url:'/images/bg2.png',
       },
       {link:'',
-      url:'http://119.23.182.180/project/images/bg3.png',
+      url:'/images/bg3.png',
       },
     ],
     indicatorDots: true,
     autoplay: true,
     interval: 3000,
     duration: 500,
+    ausrc0:"http://119.23.182.180/hexie/au/1.wav",
+    
+
     motto: 'Hello World',
   },
  
